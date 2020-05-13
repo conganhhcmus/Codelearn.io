@@ -19,6 +19,7 @@ All the contest solutions on codelearn.io that I attended.
 - [Sasuke 32](https://github.com/conganhhcmus/Codelearn.io/tree/master/sasuke%2032)
 - [Sasuke 33](https://github.com/conganhhcmus/Codelearn.io/tree/master/sasuke%2033)
 - [Sasuke 34](https://github.com/conganhhcmus/Codelearn.io/tree/master/sasuke%2034)
+- [Sasuke 35](https://github.com/conganhhcmus/Codelearn.io/tree/master/sasuke%2035)
 
 
 #### Racing Team
